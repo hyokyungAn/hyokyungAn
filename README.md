@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=$waving&color=auto&height=$200&section=header&text=$안녕하세요😍&fontSize=$50&animation=$twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=capsule%20render&fontSize=90)
